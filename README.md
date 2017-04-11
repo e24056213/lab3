@@ -21,3 +21,7 @@ n=100000:
   insertion_sort(): 87.561 seconds
   v1/v2 are the same.
 
+n=1000000:
+  sort(): 0.300683 seconds
+  v1/v2 are different.
+
